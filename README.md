@@ -69,15 +69,18 @@ Bootstrap: Framework CSS para estilização responsiva.
 ## Capturas de Tela
 Tela de Login:
 
-
+<img src="login.png">
 
 Feed de Postagens:
 
-
+<img src="feed.png">
 
 Perfil do Usuário:
 
-
+<img src="perfil.png">
 
 Perfil de Outro Usuário:
+
+<img src="perfil_outra_pessoa.png">
+
 
